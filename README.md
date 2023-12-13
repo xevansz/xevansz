@@ -1,4 +1,13 @@
-### Hi there 👋
+## About me
+
+- I'm a Linux user. EndeavourOS + [Hyprland](https://github.com/hyprwm/hyprland) + [foot](https://codeberg.org/dnkl/foot)
+- I am never touching grass again.
+- I am banned from u/noveltranslations.
+
+## Social
+
+- discord: @\_nanozen
+- reddit u/zen_matthew
 
 <!--
 **xevansz/xevansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
