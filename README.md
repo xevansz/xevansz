@@ -2,7 +2,6 @@
 
 - I'm a Linux user. EndeavourOS + [Hyprland](https://github.com/hyprwm/hyprland) + [foot](https://codeberg.org/dnkl/foot)
 - I am never touching grass again.
-- I am banned from u/noveltranslations.
 
 ## Social
 
