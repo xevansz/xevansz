@@ -1,6 +1,6 @@
 ## About me
 
-- I'm a Linux user. EndeavourOS + [Hyprland](https://github.com/hyprwm/hyprland) + [foot](https://codeberg.org/dnkl/foot)
+- I'm a Linux user. EndeavourOS + [foot](https://codeberg.org/dnkl/foot)
 - I am never touching grass again.
 
 ## Social
