@@ -3,11 +3,6 @@
 - I'm a Linux user. [EndeavourOS](https://endeavouros.com/) + [KDE](https://kde.org/) + [zsh](https://ohmyz.sh/)
 - I am never touching grass again.
 
-## Social
-
-- discord: @\_nanozen
-- reddit u/zen_matthew
-
 <!--
 **xevansz/xevansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
