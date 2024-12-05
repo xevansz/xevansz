@@ -1,6 +1,6 @@
 ## About me
 
-- I'm a Linux user. EndeavourOS + [foot](https://codeberg.org/dnkl/foot)
+- I'm a Linux user. [EndeavourOS](https://endeavouros.com/) + [KDE](https://kde.org/) + [zsh](https://ohmyz.sh/)
 - I am never touching grass again.
 
 ## Social
@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-->
+- 📫 How to reach me: 
+- discord: @\_nanozen
+- reddit u/zen_matthew
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
