@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ## 📫 How to reach me: 
 - discord: @\_nanozen
-- reddit u/zen_matthew
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
