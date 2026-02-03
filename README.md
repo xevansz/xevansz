@@ -1,7 +1,8 @@
 ## About me
 
-- Linux user. [EndeavourOS](https://endeavouros.com/) + [KDE](https://kde.org/) + [zsh](https://ohmyz.sh/)
+- Linux user. [CachyOS](https://cachyos.org/) + [KDE](https://kde.org/) + [zsh](https://github.com/xevansz/dots/tree/master/.config/zsh).
 - Never touching grass again.
+- Trying to learn programming.
 
 <!--
 **xevansz/xevansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-## 📫 How to reach me: 
-- discord: @\_nanozen
+## 📫 How to reach me:
+- discord: _nanozen
+- reddit: u/zen_matthew
+- X: @MatthewsZen
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
