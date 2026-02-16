@@ -7,8 +7,8 @@
 <div align="center">
 
 <a href="https://github.com/xevansz/Github_stats_view">
-  <img src="https://raw.githubusercontent.com/xevansz/Github_stats_view/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/xevansz/Github_stats_view/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 </div>
