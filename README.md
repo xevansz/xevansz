@@ -1,12 +1,18 @@
-## About me
+## About Me
 
-- Linux user. [CachyOS](https://cachyos.org/) + [KDE](https://kde.org/) + [zsh](https://github.com/xevansz/dots/tree/master/.config/zsh).
-- Never touching grass again.
-- Trying to learn programming (Student).
+- Linux user running **CachyOS + KDE + zsh**
+- Programming student sharpening fundamentals daily
+- Never touching grass again
 
-<a style="align-items:center" href="https://github.com/xevansz/Github_stats_view">
-<img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<div align="center">
+
+<a href="https://github.com/xevansz/Github_stats_view">
+  <img src="https://raw.githubusercontent.com/xevansz/Github_stats_view/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/xevansz/Github_stats_view/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=xevansz)
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xevansz" />
+</p>
