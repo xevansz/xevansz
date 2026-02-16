@@ -9,4 +9,4 @@
 <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=xevansz))
+![Profile Views](https://komarev.com/ghpvc/?username=xevansz)
