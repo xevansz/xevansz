@@ -2,22 +2,11 @@
 
 - Linux user. [CachyOS](https://cachyos.org/) + [KDE](https://kde.org/) + [zsh](https://github.com/xevansz/dots/tree/master/.config/zsh).
 - Never touching grass again.
-- Trying to learn programming.
+- Trying to learn programming (Student).
 
-<!--
-**xevansz/xevansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/xevansz/GitHub-Language-Stats">
+<img src="https://github.com/xevansz/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/xevansz/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-## 📫 How to reach me:
-- discord: _nanozen
-- reddit: u/zen_matthew
-- X: @MatthewsZen
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=xevansz))
