@@ -5,7 +5,7 @@
     }
     .quote {
       font-size: 13px;
-      font-weight: 800;
+      font-weight: 1000;
       fill: #9A9A9A;
       animation: cycle 96s linear infinite;
       opacity: 0;
@@ -24,53 +24,63 @@
       8%   { opacity: 0; }
       100% { opacity: 0; }
     }
-    .q1,  .a1  { animation-delay: 0s;  }
-    .q2,  .a2  { animation-delay: 8s;  }
-    .q3,  .a3  { animation-delay: 16s; }
-    .q4,  .a4  { animation-delay: 24s; }
-    .q5,  .a5  { animation-delay: 32s; }
-    .q6,  .a6  { animation-delay: 40s; }
-    .q7,  .a7  { animation-delay: 48s; }
-    .q8,  .a8  { animation-delay: 56s; }
-    .q9,  .a9  { animation-delay: 64s; }
-    .q10, .a10 { animation-delay: 72s; }
-    .q11, .a11 { animation-delay: 80s; }
-    .q12, .a12 { animation-delay: 88s; }
-  </style>
+    .q1,  .a1  { animation-delay: 0s;   }
+    .q2,  .a2  { animation-delay: 8s;   }
+    .q3,  .a3  { animation-delay: 16s;  }
+    .q4,  .a4  { animation-delay: 24s;  }
+    .q5,  .a5  { animation-delay: 32s;  }
+    .q6,  .a6  { animation-delay: 40s;  }
+    .q7,  .a7  { animation-delay: 48s;  }
+    .q8,  .a8  { animation-delay: 56s;  }
+    .q9,  .a9  { animation-delay: 64s;  }
+    .q10, .a10 { animation-delay: 72s;  }
+    .q11, .a11 { animation-delay: 80s;  }
+    .q12, .a12 { animation-delay: 88s;  }
+    .q13, .a13 { animation-delay: 96s;  }
+    .q14, .a14 { animation-delay: 104s; }
+    .q15, .a15 { animation-delay: 112s; }
+</style>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q1">not to be born is the best plan of all.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a1">— cioran</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q1">i am who i am.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a1">— exodus 3:14</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q2">every word is an unnecessary stain on silence.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a2">— beckett</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q2">you reap what you sow.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a2">— galatians 6:7</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q3">consciousness: a tragic misstep in evolution.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a3">— ligotti</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q3">what has been will be again. nothing is new.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a3">— ecclesiastes 1:9</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q4">to exist is a habit i do not despair of acquiring.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a4">— cioran</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q4">not to be born is the best plan of all.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a4">— cioran</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q5">man is condemned to be free.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a5">— sartre</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q5">every word is an unnecessary stain on silence.</text><text x="50%" y="46" text-anchor="middle" class="attr a5">— beckett</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q6">life has no meaning. that is a reason to live.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a6">— cioran</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q6">consciousness: a tragic misstep in evolution.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a6">— ligotti</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q7">we are all deep in a hell each moment a miracle.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a7">— cioran</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q7">to exist is a habit i do not despair of acquiring.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a7">— cioran</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q8">infinite spaces. eternal silence. i am frightened.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a8">— pascal</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q8">man is condemned to be free.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a8">— sartre</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q9">if you gaze into the abyss, it gazes back.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a9">— nietzsche</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q9">life has no meaning. that is a reason to live.</text><text x="50%" y="46" text-anchor="middle" class="attr a9">— cioran</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q10">we are each our own devil.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a10">— oscar wilde</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q10">we are all deep in a hell each moment a miracle.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a10">— cioran</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q11">monsters are real. they live inside us.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a11">— stephen king</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q11">infinite spaces. eternal silence. i am frightened.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a11">— pascal</text>
 
-  <text x="50%" y="28" text-anchor="middle" class="quote q12">until the unconscious becomes conscious, it rules.</text>
-  <text x="50%" y="46" text-anchor="middle" class="attr a12">— carl jung</text>
+<text x="50%" y="28" text-anchor="middle" class="quote q12">if you gaze into the abyss, it gazes back.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a12">— nietzsche</text>
+
+<text x="50%" y="28" text-anchor="middle" class="quote q13">we are each our own devil.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a13">— oscar wilde</text>
+
+<text x="50%" y="28" text-anchor="middle" class="quote q14">monsters are real. they live inside us.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a14">— stephen king</text>
+
+<text x="50%" y="28" text-anchor="middle" class="quote q15">until the unconscious becomes conscious, it rules.</text>
+<text x="50%" y="46" text-anchor="middle" class="attr a15">— carl jung</text>
 </svg>
