@@ -2,30 +2,36 @@
   <style>
     text {
       font-family: 'JetBrains Mono', 'Courier New', monospace;
-      fill: #888;
     }
     .quote {
-      font-size: 12px;
-      animation: cycle 32s linear infinite;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #9A9A9A;
+      animation: cycle 64s linear infinite;
       opacity: 0;
     }
     .attr {
-      font-size: 10px;
-      fill: #555;
-      animation: cycle 32s linear infinite;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #666;
+      animation: cycle 64s linear infinite;
       opacity: 0;
     }
     @keyframes cycle {
       0%   { opacity: 0; }
-      3%   { opacity: 1; }
-      22%  { opacity: 1; }
-      25%  { opacity: 0; }
+      2%   { opacity: 1; }
+      10%  { opacity: 1; }
+      12%  { opacity: 0; }
       100% { opacity: 0; }
     }
     .q1, .a1 { animation-delay: 0s; }
     .q2, .a2 { animation-delay: 8s; }
     .q3, .a3 { animation-delay: 16s; }
     .q4, .a4 { animation-delay: 24s; }
+    .q5, .a5 { animation-delay: 32s; }
+    .q6, .a6 { animation-delay: 40s; }
+    .q7, .a7 { animation-delay: 48s; }
+    .q8, .a8 { animation-delay: 56s; }
   </style>
 
   <text x="50%" y="28" text-anchor="middle" class="quote q1">not to be born is undoubtedly the best plan of all.</text>
@@ -39,4 +45,16 @@
 
   <text x="50%" y="28" text-anchor="middle" class="quote q4">to exist is a habit i do not despair of acquiring.</text>
   <text x="50%" y="46" text-anchor="middle" class="attr a4">— cioran</text>
+
+  <text x="50%" y="28" text-anchor="middle" class="quote q5">man is condemned to be free.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a5">— sartre</text>
+
+  <text x="50%" y="28" text-anchor="middle" class="quote q6">the fact that life has no meaning is a reason to live.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a6">— cioran</text>
+
+  <text x="50%" y="28" text-anchor="middle" class="quote q7">nobody realizes how much energy it takes just to be normal.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a7">— camus</text>
+
+  <text x="50%" y="28" text-anchor="middle" class="quote q8">the eternal silence of these infinite spaces frightens me.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a8">— pascal</text>
 </svg>
