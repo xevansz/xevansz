@@ -14,11 +14,10 @@
 
 <br>
 
-<img src="header.svg" alt="..." width="800"/>
+<img src="header.svg" alt="..." width="700"/>
 
 <br>
 
-<!-- stats -->
 <a href="https://github.com/xevansz/Github_stats_view">
   <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/languages.svg#gh-dark-mode-only" />
