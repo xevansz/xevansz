@@ -2,17 +2,16 @@
 
 <div align="center">
 
-<!-- typing SVG — edit lines at the URL -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1200&color=9A9A9A&center=true&vCenter=true&width=435&lines=nothing+works+and+that%27s+fine;shipping+anyway;trust+the+process+%F0%9F%A4%99;undefined+behavior+is+a+feature)](https://git.io/typing-svg)
+<!-- typing SVG -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1500&color=555555&center=true&vCenter=true&width=500&lines=the+unexamined+life+is+the+only+tolerable+one;existence+precedes+regret;god+is+dead+and+the+build+failed;i+think+therefore+i+suffer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4000&pause=1500&color=9A9A9A&center=true&vCenter=true&width=500&the+unexamined+life+is+the+only+tolerable+one;existence+precedes+regret;god+is+dead+and+the+build+failed;i+think+therefore+i+suffer;every+word+is+an+unnecessary+stain+on+silence;only+optimists+commit+suicide;man+is+condemned+to+be+free;to+exist+is+a+habit+i+do+not+despair+of+acquiring;consciousness+is+a+tragic+misstep+in+evolution;nobody+realizes+how+much+energy+it+takes+just+to+be+normal)](https://git.io/typing-svg)
 
 <br>
 
 <img height="1" width="800" src="https://raw.githubusercontent.com/nicedoc/onlynerds/master/assets/colored.png">
 
 ## ASTEROS
-<sub>xevansz · probably debugging something right now</sub>
+<sub>xevansz · probably digging something right now</sub>
 
 <br>
 
@@ -21,8 +20,6 @@
 ![](https://img.shields.io/badge/bounty-yes-1a1a1a?style=flat)
 
 <br>
-
-<!--<img height="1" width="800" src="https://raw.githubusercontent.com/nicedoc/onlynerds/master/assets/colored.png">-->
 
 <img src="header.svg" alt="..." width="800"/>
 
@@ -40,10 +37,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=xevansz&theme=dark&hide_border=true&background=00000000&ring=555555&fire=9A9A9A&currStreakLabel=9A9A9A)](https://git.io/streak-stats)
 
 </div>
-
-
-
-
 
 <!-- snake -->
 <!--<picture>

@@ -1,59 +1,42 @@
-<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="60" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .text {
+    text {
       font-family: 'JetBrains Mono', 'Courier New', monospace;
-      font-size: 13px;
+      fill: #888;
+    }
+    .quote {
+      font-size: 12px;
+      animation: cycle 32s linear infinite;
+      opacity: 0;
+    }
+    .attr {
+      font-size: 10px;
       fill: #555;
-      animation: fade 8s ease-in-out infinite;
+      animation: cycle 32s linear infinite;
+      opacity: 0;
     }
-    .cursor {
-      fill: #555;
-      animation: blink 1.2s step-end infinite;
+    @keyframes cycle {
+      0%   { opacity: 0; }
+      3%   { opacity: 1; }
+      22%  { opacity: 1; }
+      25%  { opacity: 0; }
+      100% { opacity: 0; }
     }
-    @keyframes fade {
-      0%, 100% { opacity: 0; }
-      15%, 85% { opacity: 1; }
-    }
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-
-    .q1 { animation-delay: 0s; }
-    .q2 { animation-delay: 8s; }
-    .q3 { animation-delay: 16s; }
-    .q4 { animation-delay: 24s; }
+    .q1, .a1 { animation-delay: 0s; }
+    .q2, .a2 { animation-delay: 8s; }
+    .q3, .a3 { animation-delay: 16s; }
+    .q4, .a4 { animation-delay: 24s; }
   </style>
 
-  <!-- quote 1 — Cioran -->
-  <text x="50%" y="38" text-anchor="middle" class="text q1">
-    "not to be born is undoubtedly the best plan of all."
-  </text>
-  <text x="50%" y="58" text-anchor="middle" class="text q1" style="font-size:11px; fill:#3a3a3a;">
-    — cioran
-  </text>
+  <text x="50%" y="28" text-anchor="middle" class="quote q1">not to be born is undoubtedly the best plan of all.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a1">— cioran</text>
 
-  <!-- quote 2 — Ligotti -->
-  <text x="50%" y="38" text-anchor="middle" class="text q2" style="opacity:0">
-    "we are creatures who should not exist by rights."
-  </text>
-  <text x="50%" y="58" text-anchor="middle" class="text q2" style="font-size:11px; fill:#3a3a3a; opacity:0">
-    — ligotti
-  </text>
+  <text x="50%" y="28" text-anchor="middle" class="quote q2">every word is an unnecessary stain on silence.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a2">— beckett</text>
 
-  <!-- quote 3 — Schopenhauer -->
-  <text x="50%" y="38" text-anchor="middle" class="text q3" style="opacity:0">
-    "life swings like a pendulum between pain and boredom."
-  </text>
-  <text x="50%" y="58" text-anchor="middle" class="text q3" style="font-size:11px; fill:#3a3a3a; opacity:0">
-    — schopenhauer
-  </text>
+  <text x="50%" y="28" text-anchor="middle" class="quote q3">consciousness: a tragic misstep in evolution.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a3">— ligotti</text>
 
-  <!-- quote 4 — Camus -->
-  <text x="50%" y="38" text-anchor="middle" class="text q4" style="opacity:0">
-    "the absurd is the confrontation of the irrational and the wild hunger."
-  </text>
-  <text x="50%" y="58" text-anchor="middle" class="text q4" style="font-size:11px; fill:#3a3a3a; opacity:0">
-    — camus
-  </text>
+  <text x="50%" y="28" text-anchor="middle" class="quote q4">to exist is a habit i do not despair of acquiring.</text>
+  <text x="50%" y="46" text-anchor="middle" class="attr a4">— cioran</text>
 </svg>
