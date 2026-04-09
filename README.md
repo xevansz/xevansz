@@ -2,13 +2,13 @@
 
 <br>
 
-—— **Asteros** ——
+—————— **ASTEROS** ——————
 
 <sub>xevansz</sub>
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=xevansz&label=lunacy&color=E24B4A&style=flat)
+![Lunacy](https://komarev.com/ghpvc/?username=xevansz&label=lunacy&color=E24B4A&style=flat)
 
 <br>
 
