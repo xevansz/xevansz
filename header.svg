@@ -8,7 +8,7 @@
       font-weight: 800;
       fill: #9A9A9A;
       animation: cycle 64s linear infinite;
-      opacity: 10;
+      opacity: 0;
     }
     .attr {
       font-size: 11px;
