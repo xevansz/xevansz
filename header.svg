@@ -4,7 +4,7 @@
       font-family: 'JetBrains Mono', 'Courier New', monospace;
     }
     .quote {
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 1000;
       fill: #9A9A9A;
       animation: cycle 96s linear infinite;
