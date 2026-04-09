@@ -12,8 +12,6 @@
 ![](https://img.shields.io/badge/Bounty-yes-1a1a1a?style=flat)
 ![](https://img.shields.io/badge/Death-Me-1a1a1a?style=flat)
 
-<br>
-
 <img src="header.svg" alt="..." width="700"/>
 
 <br>
