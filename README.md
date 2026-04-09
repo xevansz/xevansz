@@ -1,6 +1,6 @@
 <div align="center">
     <h1>【 Asteros 】</h1>
-    <img width="1280" height="320" alt="graphic border" src="https://komarev.com/ghpvc/?username=xevansz&label=lunacy&color=FF0000&style=square" />
+    <img src="https://komarev.com/ghpvc/?username=xevansz&label=lunacy&color=FF0000&style=square" alt="Profile views"/>
 </div>
 
 <div align="center">
