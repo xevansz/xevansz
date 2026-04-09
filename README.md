@@ -8,7 +8,7 @@
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=xevansz&label=profile+views&color=E24B4A&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=xevansz&label=lunacy&color=E24B4A&style=flat)
 
 <br>
 
@@ -17,7 +17,4 @@
   &nbsp;
   <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-
-<br><br>
-
 </div>
