@@ -4,11 +4,11 @@
       font-family: 'JetBrains Mono', 'Courier New', monospace;
     }
     .quote {
-      font-size: 18px;
+      font-size: 14px;
       font-weight: 800;
       fill: #9A9A9A;
       animation: cycle 64s linear infinite;
-      opacity: 0;
+      opacity: 10;
     }
     .attr {
       font-size: 11px;
