@@ -1,0 +1,59 @@
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #555;
+      animation: fade 8s ease-in-out infinite;
+    }
+    .cursor {
+      fill: #555;
+      animation: blink 1.2s step-end infinite;
+    }
+    @keyframes fade {
+      0%, 100% { opacity: 0; }
+      15%, 85% { opacity: 1; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    .q1 { animation-delay: 0s; }
+    .q2 { animation-delay: 8s; }
+    .q3 { animation-delay: 16s; }
+    .q4 { animation-delay: 24s; }
+  </style>
+
+  <!-- quote 1 — Cioran -->
+  <text x="50%" y="38" text-anchor="middle" class="text q1">
+    "not to be born is undoubtedly the best plan of all."
+  </text>
+  <text x="50%" y="58" text-anchor="middle" class="text q1" style="font-size:11px; fill:#3a3a3a;">
+    — cioran
+  </text>
+
+  <!-- quote 2 — Ligotti -->
+  <text x="50%" y="38" text-anchor="middle" class="text q2" style="opacity:0">
+    "we are creatures who should not exist by rights."
+  </text>
+  <text x="50%" y="58" text-anchor="middle" class="text q2" style="font-size:11px; fill:#3a3a3a; opacity:0">
+    — ligotti
+  </text>
+
+  <!-- quote 3 — Schopenhauer -->
+  <text x="50%" y="38" text-anchor="middle" class="text q3" style="opacity:0">
+    "life swings like a pendulum between pain and boredom."
+  </text>
+  <text x="50%" y="58" text-anchor="middle" class="text q3" style="font-size:11px; fill:#3a3a3a; opacity:0">
+    — schopenhauer
+  </text>
+
+  <!-- quote 4 — Camus -->
+  <text x="50%" y="38" text-anchor="middle" class="text q4" style="opacity:0">
+    "the absurd is the confrontation of the irrational and the wild hunger."
+  </text>
+  <text x="50%" y="58" text-anchor="middle" class="text q4" style="font-size:11px; fill:#3a3a3a; opacity:0">
+    — camus
+  </text>
+</svg>
