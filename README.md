@@ -16,15 +16,6 @@
 
 <br>
 
-<!--
-<a href="https://github.com/xevansz/Github_stats_view">
-  <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a> 
--->
-
-<br>
-
 ## 愛 · Stack
 
 <p align="center">
@@ -37,7 +28,8 @@
 
 <br>
 
-<!-- streak -->
+## 愛 · Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=xevansz&theme=dark&hide_border=true&background=00000000&ring=555555&fire=9A9A9A&currStreakLabel=9A9A9A)](https://git.io/streak-stats)
 
 <br>
