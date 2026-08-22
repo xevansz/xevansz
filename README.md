@@ -14,12 +14,26 @@
 
 <img src="header.svg" alt="..." width="700"/>
 
-<!-- <br>
+<br>
 
+<!--
 <a href="https://github.com/xevansz/Github_stats_view">
   <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://github.com/xevansz/Github_stats_view/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a> -->
+</a> 
+-->
+
+<br>
+
+## 愛 · Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-0a0805?style=for-the-badge&logo=python&logoColor=c9a227&labelColor=0a0805)
+![Linux](https://img.shields.io/badge/Linux-0a0805?style=for-the-badge&logo=linux&logoColor=c9a227&labelColor=0a0805)
+![Git](https://img.shields.io/badge/Git-0a0805?style=for-the-badge&logo=git&logoColor=c9a227&labelColor=0a0805)
+
+</p>
 
 <br>
 
