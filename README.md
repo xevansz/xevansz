@@ -8,9 +8,9 @@
 <br>
 
 ![witnesses](https://komarev.com/ghpvc/?username=xevansz&label=Lunacy&color=1a1a1a&style=flat)
-![status](https://img.shields.io/badge/Status-alive-0a0805?style=flat&labelColor=0a0805&logoColor=c9a227)
-![bounty](https://img.shields.io/badge/Bounty-yes-0a0805?style=flat&labelColor=0a0805&logoColor=c9a227)
-![death](https://img.shields.io/badge/Death-Me-0a0805?style=flat&labelColor=0a0805&logoColor=c9a227)
+![status](https://img.shields.io/badge/Status-alive-c9a227?style=flat&labelColor=0a0805)
+![bounty](https://img.shields.io/badge/Bounty-yes-c9a227?style=flat&labelColor=0a0805)
+![death](https://img.shields.io/badge/Death-Me-c9a227?style=flat&labelColor=0a0805)
 
 <img src="header.svg" alt="..." width="700"/>
 
