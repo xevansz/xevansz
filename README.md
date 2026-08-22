@@ -1,8 +1,8 @@
-<!-- —————— **ASTEROS** —————— -->
+<!-- —————— **Crymson Void** —————— -->
 
 <div align="center">
 
-## ASTEROS
+## 愛 · Crymson Void
 <sub>xevansz · probably digging something right now or touching grass</sub>
 
 <br>
@@ -39,5 +39,13 @@
 
 <!-- streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=xevansz&theme=dark&hide_border=true&background=00000000&ring=555555&fire=9A9A9A&currStreakLabel=9A9A9A)](https://git.io/streak-stats)
+
+<br>
+
+<p align="center">
+
+**愛**
+
+</p>
 
 </div>
