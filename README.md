@@ -7,7 +7,9 @@
 
 <br>
 
-![witnesses](https://komarev.com/ghpvc/?username=xevansz&label=Lunacy&color=0a0805&style=flat&logoColor=c9a227)
+<!-- ![witnesses](https://komarev.com/ghpvc/?username=xevansz&label=Lunacy&color=0a0805&style=flat&logoColor=c9a227) -->
+
+![witnesses](https://komarev.com/ghpvc/?username=xevansz&label=Lunacy&color=c9a227&style=flat)
 ![status](https://img.shields.io/badge/Status-alive-0a0805?style=flat&labelColor=c9a227)
 ![bounty](https://img.shields.io/badge/Bounty-yes-0a0805?style=flat&labelColor=c9a227)
 ![death](https://img.shields.io/badge/Death-Me-0a0805?style=flat&labelColor=c9a227)
