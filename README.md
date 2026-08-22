@@ -3,12 +3,11 @@
 <div align="center">
 
 ## ASTEROS
-<sub>xevansz · probably digging something right now</sub>
+<sub>xevansz · probably digging something right now or touching grass</sub>
 
 <br>
 
 ![witnesses](https://komarev.com/ghpvc/?username=xevansz&label=Lunacy&color=0a0805&style=flat)
-![witnesses](https://gitviews.com/user/xevansz.svg?label=Lunacy&label-color=%230a0805&color=%23c9a227)
 ![status](https://img.shields.io/badge/Status-alive-0a0805?style=flat&labelColor=c9a227)
 ![bounty](https://img.shields.io/badge/Bounty-yes-0a0805?style=flat&labelColor=c9a227)
 ![death](https://img.shields.io/badge/Death-Me-0a0805?style=flat&labelColor=c9a227)
