@@ -1,9 +1,11 @@
 <!-- —————— **Crymson Void** —————— -->
 
 <div align="center">
-
-## 愛 · Crymson Void
-<sub>xevansz · probably digging something right now or touching grass</sub>
+<div align="center">
+    <h1>【 愛 · Crymson Void 】</h1>
+    <h3>Welcome!</h3>
+    <h3>xevansz · Digging Something!</h3>
+</div>
 
 <br>
 
